@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3>Hi, good people 👋</h3>
 <h3>I'm Dela Rista Damayanti</h3>
-<h4>Focus for a career in data analyst and data engineering</h3>
+<h4>Focus for a career in data analyst</h3>
 
 - 🌱 I’m currently learning **Python, SQL, R, Tableau and Power BI**
 
